@@ -1,0 +1,31 @@
+.submit-button-padding{
+    padding: 20px 0;
+    float: right;
+  }
+  
+  .submit-button{
+    padding: 5px 10px;
+    font-size: medium;
+    font-weight: bold;
+    color: #2ecc40;
+    background-color: transparent;
+    border: 2px solid #2ecc40;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    background-color: #2ecc40;
+    color: white;
+  }
+  
+  .submit-button-invalid{
+    padding: 5px 10px;
+    font-size: medium;
+    font-weight: bold;
+    color: #bf0816;
+    background-color: transparent;
+    border: 2px solid #bf0816;
+    border-radius: 3px;
+    cursor: not-allowed;
+  }

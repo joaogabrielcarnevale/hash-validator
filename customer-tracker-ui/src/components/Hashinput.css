@@ -1,0 +1,12 @@
+.hash-input-padding{
+    padding: 20px 0;
+}
+
+.hash-input{
+    width: 100%;
+    color: #444;
+    border-radius: 3px;
+    border: 1px solid #aaa;
+    font-size: medium;
+    padding: 10px;
+}

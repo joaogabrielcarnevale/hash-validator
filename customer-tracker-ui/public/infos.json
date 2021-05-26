@@ -1,0 +1,11 @@
+{
+    "eventName": "AWS Immersion Day Core Services - Day X",
+    "eventDescription": "Welcome to authorization page, enter your hash code to access the event. This solution is intend for Solutions Architects to track customers presence through AWS Immersion Days or other events.",
+    "chimeMeetingURL": "https://chime.aws/0123456789",
+    "hashes": [
+        "abcd-012345-br",
+        "abcd-678901-br",
+        "abcd-234567-br"
+    ],
+    "apiUrl": "http://example.com"
+}

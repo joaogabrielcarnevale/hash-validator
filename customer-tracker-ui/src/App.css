@@ -1,0 +1,14 @@
+.app {
+  background-color: #232F3E;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-family: sans-serif;
+}
+
+.container{
+  width: 60%;
+}
